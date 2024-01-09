@@ -10,11 +10,11 @@ This subject provides its students with a solid understanding on Linear Optimiza
 
 ---
 
-<img src="https://github.com/ferriitoo/CS538-Combinatorial-Optimization/blob/main/results_projects/hungarian_vs_auction_method.png width="500"/>
-<img src="https://github.com/ferriitoo/CS538-Combinatorial-Optimization/blob/main/results_projects/runtime_size.png width="500"/>
-<img src="https://github.com/ferriitoo/CS538-Combinatorial-Optimization/blob/main/results_projects/runtime_vs_dataset_size.png width="500"/>
-<img src="https://github.com/ferriitoo/CS538-Combinatorial-Optimization/blob/main/results_projects/satisfaction.png width="500"/>
-<img src="https://github.com/ferriitoo/CS538-Combinatorial-Optimization/blob/main/results_projects/students_satisfaction_scores.png width="500"/>
+<img src="https://github.com/ferriitoo/CS538-Combinatorial-Optimization/blob/main/results_project/hungarian_vs_auction_method.png width="500"/>
+<img src="https://github.com/ferriitoo/CS538-Combinatorial-Optimization/blob/main/results_project/runtime_size.png width="500"/>
+<img src="https://github.com/ferriitoo/CS538-Combinatorial-Optimization/blob/main/results_project/runtime_vs_dataset_size.png width="500"/>
+<img src="https://github.com/ferriitoo/CS538-Combinatorial-Optimization/blob/main/results_project/satisfaction.png width="500"/>
+<img src="https://github.com/ferriitoo/CS538-Combinatorial-Optimization/blob/main/results_project/students_satisfaction_scores.png width="500"/>
 
 
 
@@ -24,6 +24,9 @@ This subject provides its students with a solid understanding on Linear Optimiza
 📁 ***_HOMEWORK 1:_***
 
 ---
+
+Introductory well-known optimization problems
+
 ---
 
 
@@ -31,11 +34,15 @@ This subject provides its students with a solid understanding on Linear Optimiza
 
 ---
 
+The Dual of the Linear Problem and its proof, Flow Networks, Weighted Directed Graphs
+
 ---
 
 📁 ***_HOMEWORK 3:_***
 
 ---
+
+Simplex Approach, Basic Feasible Solutions (BFS) and Directed Graphs
 
 ---
 
