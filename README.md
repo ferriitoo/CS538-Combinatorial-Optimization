@@ -10,15 +10,20 @@ This subject provides its students with a solid understanding on Linear Optimiza
 
 ---
 
+<img src="https://github.com/ferriitoo/CS538-Combinatorial-Optimization/blob/main/results_projects/hungarian_vs_auction_method.png width="500"/>
+<img src="https://github.com/ferriitoo/CS538-Combinatorial-Optimization/blob/main/results_projects/runtime_size.png width="500"/>
+<img src="https://github.com/ferriitoo/CS538-Combinatorial-Optimization/blob/main/results_projects/runtime_vs_dataset_size.png width="500"/>
+<img src="https://github.com/ferriitoo/CS538-Combinatorial-Optimization/blob/main/results_projects/satisfaction.png width="500"/>
+<img src="https://github.com/ferriitoo/CS538-Combinatorial-Optimization/blob/main/results_projects/students_satisfaction_scores.png width="500"/>
+
+
+
 ---
 
 
 📁 ***_HOMEWORK 1:_***
 
 ---
-
-<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/gaussian_distribution_2.png" width="500"/><img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/gaussian_distribution.png" width="500"/>  
-
 ---
 
 
