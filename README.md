@@ -56,7 +56,7 @@ Hitchcock problem, Proof of correctness, Bipartite Graphs & Matching algorithms
 ***DEMONSTRATION - MATHEMATICAL PROOF:***
 
 
-<img src="https://github.com/ferriitoo/CS538-Combinatorial-Optimization/blob/main/results_project/demonstration.png" width="500"/>
+<img src="https://github.com/ferriitoo/CS538-Combinatorial-Optimization/blob/main/demonstration.png" width="500"/>
 
 ---
 
