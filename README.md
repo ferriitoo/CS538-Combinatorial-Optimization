@@ -1,6 +1,6 @@
 ***Author: Julen Ferro 🚗***
 
-# ***_ZZZZZ_*** 🛠️
+# ***_COMBINATORIAL OPTIMIZATION_*** 🛠️
 
 This repository contains the Homework assignments and experiments carried out for the Combinatorial Optimization subject, at Illinois Institute of Technology for the Master´s degree in Computational Decision Science & Operations Research.
 
@@ -50,10 +50,12 @@ Simplex Approach, Basic Feasible Solutions (BFS) and Directed Graphs
 
 ---
 
+Hitchcock problem, Proof of correctness, Bipartite Graphs & Matching algorithms
+
+DEMONSTRATION - MATHEMATICAL PROOF:
+
+<img src="https://github.com/ferriitoo/CS538-Combinatorial-Optimization/blob/main/results_project/demonstration.png width="500"/>
+
 ---
 
-📁 ***_HOMEWORK 5:_***
 
----
-
----
