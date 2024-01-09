@@ -10,12 +10,11 @@ This subject provides its students with a solid understanding on Linear Optimiza
 
 ---
 
-<img src="https://github.com/ferriitoo/CS538-Combinatorial-Optimization/blob/main/results_project/hungarian_vs_auction_method.png width="500"/>
-<img src="https://github.com/ferriitoo/CS538-Combinatorial-Optimization/blob/main/results_project/runtime_size.png width="500"/>
-<img src="https://github.com/ferriitoo/CS538-Combinatorial-Optimization/blob/main/results_project/runtime_vs_dataset_size.png width="500"/>
-<img src="https://github.com/ferriitoo/CS538-Combinatorial-Optimization/blob/main/results_project/satisfaction.png width="500"/>
-<img src="https://github.com/ferriitoo/CS538-Combinatorial-Optimization/blob/main/results_project/students_satisfaction_scores.png width="500"/>
-
+<img src="https://github.com/ferriitoo/CS538-Combinatorial-Optimization/blob/main/results_project/hungarian_vs_auction_method.png" width="500"/>
+<img src="https://github.com/ferriitoo/CS538-Combinatorial-Optimization/blob/main/results_project/runtime_size.png" width="500"/>
+<img src="https://github.com/ferriitoo/CS538-Combinatorial-Optimization/blob/main/results_project/runtime_vs_dataset_size.png" width="500"/>
+<img src="https://github.com/ferriitoo/CS538-Combinatorial-Optimization/blob/main/results_project/satisfaction.png" width="500"/>
+<img src="https://github.com/ferriitoo/CS538-Combinatorial-Optimization/blob/main/results_project/students_satisfaction_scores.png" width="500"/>
 
 
 ---
@@ -54,7 +53,7 @@ Hitchcock problem, Proof of correctness, Bipartite Graphs & Matching algorithms
 
 DEMONSTRATION - MATHEMATICAL PROOF:
 
-<img src="https://github.com/ferriitoo/CS538-Combinatorial-Optimization/blob/main/results_project/demonstration.png width="500"/>
+<img src="https://github.com/ferriitoo/CS538-Combinatorial-Optimization/blob/main/results_project/demonstration.png" width="500"/>
 
 ---
 
